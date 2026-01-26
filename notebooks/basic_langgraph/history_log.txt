@@ -1,0 +1,8 @@
+Your conversation log 
+You : hey! my name is Ivan!
+AI : Hey Ivan! Nice to meet you. What brings you here today?
+
+You : jast truying  out new technologies with you 
+AI : That sounds exciting, Ivan! Are you looking for information on a specific technology or just curious about what's new in the tech world?
+
+End of conversation.
