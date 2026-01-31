@@ -1,0 +1,4 @@
+pip install "mcp[cli]"
+pip install pytest-asyncio
+
+pip install langchain-mcp-adapters

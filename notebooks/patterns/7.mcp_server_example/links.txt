@@ -1,0 +1,18 @@
+https://realpython.com/python-mcp/
+https://medium.com/@shankeytayal/building-a-custom-mcp-client-for-langgraph-agents-a-complete-guide-d40fed2fce3c
+https://github.com/langchain-ai/langchain-mcp-adapters
+https://academy.finxter.com/web-research-and-asynchronous-tools/
+https://generect.com/blog/langgraph-mcp/
+https://www.youtube.com/watch?v=yZGjVA4uDc4
+
+
+voise assistent
+https://towardsdatascience.com/using-langgraph-and-mcp-servers-to-create-my-own-voice-assistant/
+
+
+MCP for prod 
+https://latenode.com/blog/ai-frameworks-technical-infrastructure/langgraph-multi-agent-orchestration/langgraph-mcp-integration-complete-model-context-protocol-setup-guide-working-examples-2025
+
+
+https://medium.com/@shankeytayal/building-a-custom-mcp-client-for-langgraph-agents-a-complete-guide-d40fed2fce3c
+
